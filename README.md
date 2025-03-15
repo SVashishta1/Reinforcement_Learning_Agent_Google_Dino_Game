@@ -16,6 +16,11 @@ This project uses Deep Q-Learning to train an AI to play the Chrome Dino game.
    python3 dino_dnq.py
    ```
 
+## Preview
+
+![Dino DQN in Action](screenshot.jpg)
+
+
 ## Files
 
 - `dino_dnq.py`: The main script that runs the DQN training
